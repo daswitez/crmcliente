@@ -2014,12 +2014,12 @@ if (false) {} else {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_2adc2403d89adc16ead0 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_e9e577f89808b21d8ba8 ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_2adc2403d89adc16ead0 */ "dll-reference dll_2adc2403d89adc16ead0"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9e577f89808b21d8ba8 */ "dll-reference dll_e9e577f89808b21d8ba8"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -2037,7 +2037,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
 var _this = undefined,
-  _jsxFileName = "C:\\Users\\T003-24\\Downloads\\crmcliente\\crmcliente\\pages\\_app.js";
+  _jsxFileName = "C:\\Users\\T003-24\\WebstormProjects\\crmcliente\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 var MyApp = function MyApp(_ref) {
@@ -2064,19 +2064,19 @@ var MyApp = function MyApp(_ref) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./");
-module.exports = __webpack_require__(/*! C:\Users\T003-24\Downloads\crmcliente\crmcliente\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! C:\Users\T003-24\WebstormProjects\crmcliente\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_2adc2403d89adc16ead0":
+/***/ "dll-reference dll_e9e577f89808b21d8ba8":
 /*!*******************************************!*\
-  !*** external "dll_2adc2403d89adc16ead0" ***!
+  !*** external "dll_e9e577f89808b21d8ba8" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_2adc2403d89adc16ead0;
+module.exports = dll_e9e577f89808b21d8ba8;
 
 /***/ })
 
